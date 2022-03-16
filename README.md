@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+1. Download the Peoject
+2. Extract and open the folder in VS Code
+3. Run without debugging
+4. App will be installed in the device selected
+5. Enjoy
